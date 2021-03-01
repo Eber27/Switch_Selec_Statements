@@ -1,0 +1,13 @@
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\bin\Debug\netcoreapp3.1\SwithStatements.exe
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\bin\Debug\netcoreapp3.1\SwithStatements.deps.json
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\bin\Debug\netcoreapp3.1\SwithStatements.runtimeconfig.json
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\bin\Debug\netcoreapp3.1\SwithStatements.runtimeconfig.dev.json
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\bin\Debug\netcoreapp3.1\SwithStatements.dll
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\bin\Debug\netcoreapp3.1\SwithStatements.pdb
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\obj\Debug\netcoreapp3.1\SwithStatements.csprojAssemblyReference.cache
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\obj\Debug\netcoreapp3.1\SwithStatements.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\obj\Debug\netcoreapp3.1\SwithStatements.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\obj\Debug\netcoreapp3.1\SwithStatements.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\obj\Debug\netcoreapp3.1\SwithStatements.dll
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\obj\Debug\netcoreapp3.1\SwithStatements.pdb
+C:\Users\Johanna\Desktop\Repo C#\myproject\SwithStatements\SwithStatements\obj\Debug\netcoreapp3.1\SwithStatements.genruntimeconfig.cache
